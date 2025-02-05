@@ -19,36 +19,36 @@ This is a beginner-friendly machine learning project that implements a simple ne
 
 #### Running Locally
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/mnist-digit-recognition.git
-   cd mnist-digit-recognition
-   ```
+```bash
+git clone https://github.com/your-username/mnist-digit-recognition.git
+cd mnist-digit-recognition
+```
 
 2.	Install the dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+```bash
+pip install -r requirements.txt
+```
 
 3.	Run the project:
-   ```bash
-   python src/main.py
-   ```
+```bash
+python src/main.py
+```
 
 #### Running with Docker
 1. Build the Docker image:
-   ```bash
-   docker build -t mnist-digit-recognition .
-   ```
+```bash
+docker build -t mnist-digit-recognition .
+```
 
 2.	Run the Docker container:
-   ```bash
-   docker run --rm mnist-digit-recognition
-   ```
+```bash
+docker run --rm mnist-digit-recognition
+```
 
 3.	Run the project:
-   ```bash
-   python src/main.py
-   ```
+```bash
+python src/main.py
+```
 
 ## Getting Started
 ```Markdown
