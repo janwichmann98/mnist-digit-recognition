@@ -1,6 +1,6 @@
 # MNIST Digit Recognition
 
-This is a beginner-friendly machine learning project that implements a simple neural network using PyTorch to classify handwritten digits from the MNIST dataset.
+This is a machine learning project that implements a simple neural network using PyTorch to classify handwritten digits from the MNIST dataset.
 
 ## Project Features
 - **Data Preparation:** Uses `torchvision` to download and preprocess the MNIST dataset.
